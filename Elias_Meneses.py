@@ -1,0 +1,11 @@
+nombre = input("Nombre: ")
+apellido = input("Apellido: ")
+rut = int(input("Rut: "))
+Duoc_mail = input("Duoc_mail: ")
+Duoc_sede = input("Duoc_sede: ")
+
+print("Nombre:", nombre)
+print("Apellido:", apellido)
+print("Rut:", rut)
+print("Duoc Mail:", Duoc_mail)
+print("Duoc Sede:", Duoc_sede)
